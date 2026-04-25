@@ -4,7 +4,7 @@ A free, customizable digital token economy board for ABA sessions and similar us
 
 ## Live Demo
 
-[your-username.github.io/nexttoken](https://your-username.github.io/nexttoken)
+[nexttoken.online](https://nexttoken.online)
 
 ## Features
 
