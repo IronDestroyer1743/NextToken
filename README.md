@@ -13,6 +13,7 @@ A free, customizable digital token economy board for ABA sessions and similar us
 - **Custom icon upload** — PNG, JPEG, WebP, or SVG, auto-resized and stored locally in your browser
 - **5 visual effects** — confetti, star burst, fireworks, bubbles, rainbow rings (plus off)
 - **5 audio effects** — chime, fanfare, sparkle, coin, ta-da (plus off), synthesized via Web Audio API
+- **6 preset themes** — Light, Dark, Sand, Forest, Ocean, Rose
 - **Independent toggles** for visual and audio rewards
 - **Editable session label** above the board
 - **Persistent state** — all settings, custom icons, and mid-session progress save to localStorage
