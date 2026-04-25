@@ -23,10 +23,6 @@ A free, customizable digital token economy board for ABA sessions and similar us
 
 Tap any empty slot to fill it. Tap a filled slot to unfill. Fill them all to trigger the reward effect. The settings cog (top right) opens a slide-out panel for all customization. The reset button clears the board.
 
-## Hosting
-
-Drop `index.html` on any static host: GitHub Pages, Netlify, Vercel, Cloudflare Pages, or even open it locally from your file system. No build step required.
-
 ## Privacy
 
 Everything runs client-side. No analytics, no network requests, no data leaves your device. Custom icons and settings live in your browser's localStorage.
